@@ -1,6 +1,6 @@
 {
   "name": "@dfhernandez/common-utilities",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Library written in JS that contains all useful functions and setups",
   "author": "Daniel Hernandez <farid.hdz.64@gmail.com> (https://github.com/shark764)",
   "main": "lib/index.js",
