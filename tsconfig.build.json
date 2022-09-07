@@ -1,0 +1,27 @@
+{
+  "extends": "./tsconfig",
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "**/*.test.*",
+    "**/__mocks__/*",
+    "**/__tests__/*",
+    "__tests__/**/*-test.ts",
+    "tests",
+    "dist",
+    "node_modules",
+    "build",
+    "lib",
+    "coverage",
+    ".eslintrc.js",
+    "babel.config.js",
+    "commitlint.config.js",
+    "jest.config.ts",
+    "lint-staged.config.js",
+    "webpack.config.js",
+    "example",
+    "test",
+    "test-functions.js"
+  ]
+}
